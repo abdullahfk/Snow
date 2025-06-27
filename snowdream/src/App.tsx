@@ -1,11 +1,8 @@
 "use client"
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+
 import { useState, useEffect, useRef } from "react"
 import { ChevronDown, ArrowDown, Menu, X } from "lucide-react"
 import "./App.css"
-
-import Slider from "react-slick";
 
 
 
